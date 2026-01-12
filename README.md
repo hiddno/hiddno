@@ -6,7 +6,7 @@
 </p>
 
 ## 🧠 About Me
-- 🔥 Backend & Bot Developer (Python Focused)
+- 🔥 Backend (Python Focused)
 - 🤖 Discord Bot Builder & Automation Enthusiast
 - 🌐 Web Enthusiast (HTML, CSS, JavaScript)
 - ⚙️ Love building **systems**, **tools**, and **experimental projects**
@@ -21,8 +21,9 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 ## 🚀 Featured Projects
-- 🧠 **pawno** — experimental & learning-based project  
-- 🎂 **birthday-** — simple CSS-based fun project  
+- 🧠 **pawno** — experimental & learning-based project 
+- 🎂 **birthday-** — simple CSS-based fun project
+- 🐍 **Calculator-With-Website** — simple python calculator with web ui
 
 > More projects coming soon. Always cooking something 👨‍💻🔥
 
@@ -40,6 +41,7 @@
 
 ## 📫 Connect With Me
 - GitHub: **https://github.com/hiddno**
-- Discord: *private / server-based*
+- Discord Server Me: **https://discord.gg/7hCKbvAN2G**
+- Instagram : **https://www.instagram.com/3726.0108?igsh=Nmc0cHdpNmluNmti**
 
 <h3 align="center">⚡ “Build quietly. Let results scream.” ⚡</h3>
